@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Tabungan Bersama Group C",
+  "description": "Aplikasi untuk mempermudah pendataan tabungan, tanggal pembayaran, belum bayar, pengeluaran, dan saldo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
